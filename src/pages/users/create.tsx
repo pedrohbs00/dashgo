@@ -9,8 +9,8 @@ import {
   VStack
 } from "@chakra-ui/react";
 
-import { Header } from "@/components/Header/Header";
-import { Sidebar } from "@/components/Sidebar/Sidebar";
+import { Header } from "@/components/Header";
+import { Sidebar } from "@/components/Sidebar";
 import { Input } from "@/components/Form/Input";
 
 export default function CreateUser() {
